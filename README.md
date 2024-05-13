@@ -9,13 +9,18 @@ This is an authentication project.
 - ReactJS
 - ExpressJS
 - MongoDB
+- Shadcn-UI
+- Tailwind CSS
+- React-hook-form
+- Axios
+- React-query
 
 ### Installation
 
 1. Clone the repository
 
    ```
-   git clone https://github.com/nz-m/SocialEcho.git
+   git clone https://github.com/kull102/mern-auth.git
    ```
 
 2. Go to the project directory and install dependencies for both the client and server
